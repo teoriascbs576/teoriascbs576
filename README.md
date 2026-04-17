@@ -118,3 +118,4 @@ Invitamos a:
 Aguirre Parra, J. A. (576), DeepSeek, Claude & Gemini. (2026). *SCBS - Simbiosis Cognitiva Biosintética: Documentación Experimental Integrada* (V4 Mini). Zenodo. [DOI pendiente]
 
 -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19624870.svg)](https://doi.org/10.5281/zenodo.19624870)
